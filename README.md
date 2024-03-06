@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Nike Landing Page using React and Tailwind CSS
+- Tailwind CSS is a utility-first CSS framework that streamlines web development by providing a set of pre-defined, low-level utility classes. Unlike traditional frameworks, Tailwind doesn't impose a predetermined component structure, offering flexibility and customization. Developers can compose styles directly in the HTML, making it highly scalable and efficient. Its utility classes cover a wide range of design aspects, facilitating rapid development while maintaining a consistent and responsive design. Tailwind CSS is known for its simplicity, performance, and ease of use in creating modern, sleek user interfaces.
+- Successfully implemented full responsiveness for the website by leveraging Tailwind CSS, ensuring an optimal viewing experience across various devices and screen sizes,
+- Successfully deployed using Netlify for efficient hosting and automated deployment processes.
+- ![Screenshot 2024-03-06 185709](https://github.com/chiillbro/Nike_landing_page/assets/144758027/db663b48-32f3-4e8a-aa5e-532a9df14c26)
