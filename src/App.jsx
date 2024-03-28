@@ -9,7 +9,15 @@ import {
   Services,
 } from "./sections";
 import Nav from "./components/Nav";
-const App = () => {
+import AOS from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
+
+function App() {
+  useEffect(() => {
+    AOS.init();
+  }, []);
+
   return (
     <main className="relative">
       <Nav />
@@ -39,5 +47,5 @@ const App = () => {
       </section>
     </main>
   );
-};
+}
 export default App;
